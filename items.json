@@ -1,0 +1,10 @@
+[{
+    "id":1,
+    "name":"dell",
+    "category":"Laptop"
+},
+{
+    "id":2,
+    "name":"samsang",
+    "category":"mobile"
+}]
